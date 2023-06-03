@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+iphone:
+  title: Iphone 13
+  description: Esta joyita el iphone
+  price: 5000000
+
+xbox:
+  title: xbox series x
+  description: Nuevo
+  price: 300
